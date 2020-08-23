@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+	<img src="https://media.giphy.com/media/dAv0axf0DgoSvgif38/giphy.gif">
 </div>
 
 ## About me :mortar_board:
@@ -24,15 +24,10 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/sarthak_bharadwaj_/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
-
-
-### Interesting stats
-
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+[![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
+[![Instagram](https://img.shields.io/badge/-@yefernandez0211-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ayefernandez0211/)](https://www.instagram.com/ayefernandez0211/)
+[![Linkedin](https://img.shields.io/badge/-Ayelen%20Fernandez-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](https://www.linkedin.com/in/ayelen-fernandez-783286187/)
+[![Mail](https://img.shields.io/badge/-ayelenwf@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/ayelen-fernandez-783286187/)](mailto:ayelenwf@gmail.com)
 
 Thanks for stopping by! 😁
 
