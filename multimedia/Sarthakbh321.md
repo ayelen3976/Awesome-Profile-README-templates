@@ -5,23 +5,15 @@
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-
-## What I know :computer:
-- **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+ Tengo 18 años y soy una estudiante, actualmente estoy haciendo un BootCamp ,empece con la programación a los 16 años. Esto me ayudo a desarrollar una buena mentalidad tecnológica y me dio la curiosidad por aprender más. Yo creo que **ningun conocimiento es suficiente**.
 - **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
+	- HTML, CSS and Javascript 
 	- Bootstrap
-	- React with Redux :electron:
+	- React with Redux 
 	- React Native
 
-## What I want to do next :thinking:
+## Todavia sigo aprendiendo…:
 - Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
-- Unlock the secret to the universe :rofl:
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/ayelen3976?label=Follow&style=social)](https://github.com/ayelen3976)
@@ -31,4 +23,4 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 Thanks for stopping by! 😁
 
-⭐️ From [Sarthakbh321](https://github.com/Sarthakbh321)
+
